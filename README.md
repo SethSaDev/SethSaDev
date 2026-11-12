@@ -22,4 +22,4 @@ I build full-stack systems on ASP.NET Core and SQL Server, with Angular or React
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/seth-sanders-dev/) · [sethsanders.dev@gmail.com](mailto:sethsanders.dev@gmail.com)
+[sethsanders.dev@gmail.com](mailto:sethsanders.dev@gmail.com)
